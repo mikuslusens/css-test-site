@@ -1,3 +1,3 @@
 # css-test-site
 
-A simple webpage for testing various CSS rulesets.
+A simple webpage for testing various CSS rulesets and HTML5 elements.
